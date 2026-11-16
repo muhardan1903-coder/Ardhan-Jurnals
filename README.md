@@ -1,2 +1,0 @@
-# Ardhan-Jurnals
-web portofolio
